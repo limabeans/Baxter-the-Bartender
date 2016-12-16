@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="cup_grabber" type="fixed_marker_broadcaster.py" name="fixed_marker_broadcaster" />
+</launch>

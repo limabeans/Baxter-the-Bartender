@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa16/class/ee106a-abq/Desktop/baxter-waiter/devel
+
+Name: cup_grabber
+Description: Description of cup_grabber
+Version: 0.0.0
+Cflags: -I/home/cc/ee106a/fa16/class/ee106a-abq/Desktop/baxter-waiter/devel/include
+Libs: -L/home/cc/ee106a/fa16/class/ee106a-abq/Desktop/baxter-waiter/devel/lib 
+Requires: 

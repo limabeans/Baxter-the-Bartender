@@ -1,0 +1,17 @@
+---
+string tag1
+float64 pos_x1
+float64 pos_y1
+float64 pos_z1
+float64 or_x1
+float64 or_y1
+float64 or_z1
+float64 or_w1
+string tag2
+float64 pos_x2
+float64 pos_y2
+float64 pos_z2
+float64 or_x2
+float64 or_y2
+float64 or_z2
+float64 or_w2
